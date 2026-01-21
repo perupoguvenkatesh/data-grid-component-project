@@ -7,6 +7,7 @@ export default {
 };
 export const Primary={
     args:{
+      rows:[],
         label:"Click Me",
     }
 }
