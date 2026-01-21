@@ -12,7 +12,7 @@ const sampleColumns = [
 ];
 
 const sampleRows = [
-  { id: 1, name: "Bava", email: "bava@gmail.com" },
+  { id: 1, name: "Venkatesh", email: "perupoguvenkatesh5073@gmail.com" },
   { id: 2, name: "Ravi", email: "ravi@gmail.com" },
   { id: 3, name: "Anil", email: "anil@gmail.com" },
 ];
